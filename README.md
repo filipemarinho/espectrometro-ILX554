@@ -19,7 +19,7 @@ O código do arquivo .ino é responsável por gerar o clock e fazer a leitura an
  
 ## Testes
 
-O sensor é MUITO sensivel então coloque algumas fitas na frente do sensor, diminua a luz a luz ambiente e faça um teste tampando uma parte do sensor com o dedo para verificar o  
+O sensor é MUITO sensivel então coloque algumas fitas na frente do sensor, diminua a luz a luz ambiente e faça um teste tampando uma parte do sensor com o dedo para verificar o funcionamento básico.
 
 
 ## License

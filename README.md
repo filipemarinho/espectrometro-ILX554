@@ -1,4 +1,4 @@
-# espectrometro-esperto
+# espectrometro-ILX554
 
 
 Esse é o projeto de construção de um espectrômetro.

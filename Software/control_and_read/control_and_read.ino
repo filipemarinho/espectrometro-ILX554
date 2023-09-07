@@ -58,14 +58,14 @@ void Task2code( void * pvParameters ){
 
   for(;;){
     if(Serial.available()){
-      String n;
+      char n;
       n=Serial.read();
         
       if (n=='m'){
         leitura();
       }
       
-      if (n==10m){
+      if (n=='x'){
         for (int j=0;j<10;j++) {
           leitura();
           delay(tint);
@@ -91,7 +91,7 @@ void Task2code( void * pvParameters ){
         integra -= 100;
       }
       
-      n=0;
+      n='';
    }
   }
 }
